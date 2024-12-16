@@ -425,10 +425,11 @@ body.dark-theme{
 
 .about-title{
   margin-bottom: var(--mb-1);
+  font-size: xx-large;
 }
 
 .about-description{
-  font-size: small !important;
+  font-size: large !important;
   margin-bottom: var(--mb-1);
 }
 
@@ -441,7 +442,7 @@ body.dark-theme{
 .about-details-description{
   display: inline-flex;
   column-gap: .5rem;
-  font-size: small !important;
+  font-size: large !important;
 }
 
 .about-details-icon{
